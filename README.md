@@ -15,6 +15,19 @@
 
 ---
 
+## 플레이 영상
+
+>클릭하면 유튜브 영상으로 넘어갑니다.
+<a href="https://youtu.be/S_S_HhQMMis" target="_blank">
+  <img
+    width="600"
+    height="322"
+    alt="MonShooterPlayGif"
+    src="https://github.com/user-attachments/assets/dc16d2c1-34ab-4b83-9406-fa37f49ae280" />
+</a>
+
+---
+
 ## 게임정보
 
 - 장르 : 2D 탑다운 슈팅
