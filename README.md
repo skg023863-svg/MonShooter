@@ -1,4 +1,4 @@
-# [게임이름 : 몬슈터]
+# [게임 이름 : 몬슈터]
 
 <img width="900" height="600" alt="monshooter" src="https://github.com/user-attachments/assets/a35deed9-d9ef-400b-a76e-29d975e8e6fb" />
 
